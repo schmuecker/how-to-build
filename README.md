@@ -1,7 +1,7 @@
 # Overview
 
 - [How to build…](#how-to-build)
--   + [... animations in React apps](#-animations-in-React-apps)
+    + [... animations in React apps](#-animations-in-React-apps)
     + [... desktop apps that needs access to native APIs](#-desktop-apps-that-needs-access-to-native-apis)
 
 # How to build…
@@ -15,7 +15,7 @@ Spring physics are great for adding natural motion to your apps.
     - [Page transitions with react-spring](https://codesandbox.io/s/react-spring-v9-page-transition-forked-k3kou) 
     - [Page transitions with framer-motion](https://dev.to/joserfelix/page-transitions-in-react-1c8g)
 
-### ... a desktop apps that needs access to native APIs
+### ... desktop apps that needs access to native APIs
 
 **Electron** bundles Node.js and Chrome into a native cross-platform app. The user interface can be developed using web technologies like React and native APIs can be used via Node.js.
 
