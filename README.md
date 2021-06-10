@@ -1,7 +1,7 @@
 # Overview
 
 - [How to build…](#how-to-build-)
-    + [… a desktop app that needs access to native APIs like the file system](#--a-desktop-app-that-needs-access-to-native-apis-like-the-file-system)
+    + [… a desktop app that needs access to native APIs like the file system](#-a-desktop-app-that-needs-access-to-native-apis-like-the-file-system)
 
 # How to build…
 
