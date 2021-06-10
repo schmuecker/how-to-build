@@ -1,12 +1,21 @@
 # Overview
 
-- [How to build…](#how-to-build-)
-    + [… a desktop app that needs access to native APIs like the file system](#-a-desktop-app-that-needs-access-to-native-apis-like-the-file-system)
+- [How to build…](#how-to-build)
+-   + [... animations in React apps](#-animations-in-React-apps)
+    + [... desktop apps that needs access to native APIs](#-desktop-apps-that-needs-access-to-native-apis)
 
 # How to build…
 
+### ... animations in React apps
 
-### … a desktop app that needs access to native APIs like the file system
+Spring physics are great for adding natural motion to your apps. 
+- For granular control over animations and plug-and-play compatibility with [react-three-fiber](https://github.com/pmndrs/react-three-fiber), use [react-spring](https://react-spring.io).
+- If you're aiming for advanced animations like Shared Element Transitions, have a look at [framer-motion](https://www.framer.com/motion/).
+- Both libraries can be used for adding page transitions: 
+    - [Page transitions with react-spring](https://codesandbox.io/s/react-spring-v9-page-transition-forked-k3kou) 
+    - [Page transitions with framer-motion](https://dev.to/joserfelix/page-transitions-in-react-1c8g)
+
+### ... a desktop apps that needs access to native APIs
 
 **Electron** bundles Node.js and Chrome into a native cross-platform app. The user interface can be developed using web technologies like React and native APIs can be used via Node.js.
 
