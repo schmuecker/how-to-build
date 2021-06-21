@@ -2,7 +2,7 @@
 
 - [How to build…](#how-to-build)
     + [... animations in React](#-animations-in-React)
-    + [... code highlighting in React](#-code highlighting-in-React)
+    + [... code highlighting in React](#-code-highlighting-in-React)
     + [... desktop apps that needs access to native APIs](#-desktop-apps-that-needs-access-to-native-apis)
 
 # How to build…
