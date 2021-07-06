@@ -23,7 +23,7 @@ It doesn't require any global CSS but instead relies on JS-based styling.
 
 ### ... desktop apps that needs access to native APIs
 
-**Electron** bundles Node.js and Chrome into a native cross-platform app. The user interface can be developed using web technologies like React and native APIs can be used via Node.js.
+**Electron** bundles Node.js and Chrome into a native cross-platform app. The user interface can be developed using web technologies like React and native APIs can be used via Node.js. If you want to build apps with a smaller footprint, check out [Tauri](https://github.com/tauri-apps/tauri).
 
 Quick Links:
 - [GitHub - electron-react-boilerplate/electron-react-boilerplate: A Foundation for Scalable Cross-Platform Apps](https://github.com/electron-react-boilerplate/electron-react-boilerplate)
