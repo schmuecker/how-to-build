@@ -3,7 +3,7 @@
 - [How to build…](#how-to-build)
     + [... animations in React](#-animations-in-React)
     + [... code highlighting in React](#-code-highlighting-in-React)
-    + [... desktop apps that needs access to native APIs](#-desktop-apps-that-needs-access-to-native-apis)
+    + [... desktop apps that need access to native APIs](#-desktop-apps-that-need-access-to-native-apis)
 
 # How to build…
 
@@ -21,7 +21,7 @@ Spring physics are great for adding natural motion to your apps.
 [react-syntax-highlighter](https://github.com/react-syntax-highlighter/react-syntax-highlighter) is an easy way to add code highlighting to any React app. It uses [highlight.js](https://github.com/highlightjs/highlight.js) or [Prism](https://github.com/PrismJS/prism) under the hood, whichever you prefer. It doesn't require any global CSS but instead relies on JS-based styling.
 If you're looking for more fine-grained control over the rendering, you can check out [prism-react-renderer](https://github.com/FormidableLabs/prism-react-renderer).
 
-### ... desktop apps that needs access to native APIs
+### ... desktop apps that need access to native APIs
 
 **Electron** bundles Node.js and Chrome into a native cross-platform app. The user interface can be developed using web technologies like React and native APIs can be used via Node.js. If you want to build apps with a smaller footprint, check out [Tauri](https://github.com/tauri-apps/tauri).
 
