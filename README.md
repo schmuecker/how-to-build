@@ -24,7 +24,7 @@ If you're looking for more fine-grained control over the rendering, you can chec
 
 ### ... desktop apps for existing websites
 
-[nativefier](https://github.com/nativefier/nativefier) lets you generate an Electron app from a website. It gives you control over a lot of Electron features via its CLI. If nativefier isn't enough for you, have a look at the section [How to build desktop apps that interact with native APIs](#-desktop-apps-that-interact-with-native-apis).
+[nativefier](https://github.com/nativefier/nativefier) lets you generate an Electron app from a website. It gives you control over a lot of Electron features via its CLI. If nativefier isn't enough for you, have a look at the section ["How to build desktop apps that interact with native APIs"](#-desktop-apps-that-interact-with-native-apis).
 
 ### ... desktop apps that interact with native APIs
 
